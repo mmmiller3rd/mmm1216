@@ -1,0 +1,6 @@
+spring.profiles.active: local
+aws:
+  accessKey: fakeKeyId
+  secretKey: fakeSecret
+  region: fakeRegion
+  endpoint: http://localhost:8000
